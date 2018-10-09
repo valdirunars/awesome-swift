@@ -29,6 +29,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Dependency Managers](#dependency-managers)
 - [Patterns](#patterns)
+- [Programming Languages](#programming-languages)
 - [Misc](#misc)
 - [Libs](#libs)
   - [Accessibility](#accessibility)
@@ -240,6 +241,12 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 * [App Architecture](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns.
+
+## Programming Languages
+
+* [Zolang](https://github.com/Zolang/Zolang) - A language written in pure Swift designed to be transpilable to virtually any language
+* [Lioness](https://github.com/louisdh/lioness) - A language written in pure Swift designed for mathematical purposes
+* [Sipquick](https://github.com/segiddins/Sipquick) - An minimal example of how to write a programming language in Swift
 
 ## Misc
 *Miscellaneous Swift related projects* 
